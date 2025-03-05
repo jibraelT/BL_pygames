@@ -1,0 +1,2 @@
+The game mechanicas are like platformer and puzzle games.
+The player controls the character s movements.
